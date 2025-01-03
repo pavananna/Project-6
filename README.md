@@ -101,7 +101,7 @@ Results:
 
      Identified key features influencing sales such as promotional campaigns.
 
-    Improved model accuracy by applying feature transformations.
+      Improved model accuracy by applying feature transformations.
 
      Created visualizations to highlight trends and patterns in sales data.
 
